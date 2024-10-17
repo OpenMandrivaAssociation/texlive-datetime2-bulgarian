@@ -3,7 +3,7 @@ Version:	47031
 Release:	2
 Summary:	Bulgarian language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-bulgarian
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-bulgarian
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-bulgarian.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-bulgarian.doc.r%{version}.tar.xz
